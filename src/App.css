@@ -36,10 +36,10 @@
 
 /* General styles */
 
-/* endable this to add smooth scrolling */
+/* endable this to add smooth scrolling 
 html {
     scroll-behavior: smooth;
-}
+}*/
 
 
 body {
@@ -471,5 +471,9 @@ header {
   margin-right: auto;
 }
 
+.portfolio-item-button {
+  text-align: center;
+  padding-bottom: 5em;
+}
 
 
