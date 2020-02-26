@@ -1,5 +1,5 @@
 import React from 'react'
-import { Switch, Route, useParams } from 'react-router-dom'
+import { Switch, Route } from 'react-router-dom'
 import './App.css'
 import Header from './components/Header'
 import Intro from './components/Intro'
@@ -18,16 +18,16 @@ function App() {
   return (
     <>
       <Header />
-        <Switch>
-          <Route exact path="/">
-            <Intro />
-            <Services />
-            <About />
-            <Work />
-          </Route>
-          <Route path="/work/:workId">
-            <PortfolioItem />
-          </Route>
+      <Switch>
+        <Route exact path="/">
+          <Intro />
+          <Services />
+          <About />
+          <Work />
+        </Route>
+        <Route path="/work/:workId">
+          <PortfolioItem />
+        </Route>
         </Switch>
       <Footer />
     </>

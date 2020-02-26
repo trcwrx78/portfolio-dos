@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react'
+import { useRouteMatch } from 'react-router-dom'
 
 
 function Header() {
     const [navToggle, setNavToggle] = useState(false)
+    let { url } = useRouteMatch()
 
     function handleMenuChange() {
         setNavToggle(prevNav => !prevNav)
@@ -15,7 +17,7 @@ function Header() {
 
     const navItems = ["Home", "Services", "About", "Work"]
     const navItemBuild = navItems.map((item, i) => (
-        <li className="nav__item" key={i}><a href={`#${item.toLowerCase()}`} className="nav__link" onClick={handleMenuChange}>{item}</a></li>
+        <li className="nav__item" key={i}><a href={`${url}#${item.toLowerCase()}`} className="nav__link" onClick={handleMenuChange}>{item}</a></li>
     ))
 
     return(
