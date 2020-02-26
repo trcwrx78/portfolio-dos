@@ -21,7 +21,7 @@ function Header() {
     return(
         <header>
             <div className="logo">
-                <img src="img/devjane.png" alt="" />
+                <img src="/img/devjane.png" alt="" />
             </div>
             <button className="nav-toggle" aria-label="toggle navigation" onClick={handleMenuChange}>
                 <span className="hamburger"></span>
