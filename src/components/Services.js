@@ -7,20 +7,23 @@ function Services() {
             <div className="services">
                 <div className="service">
                     <h3>Design + Development</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>I enjoy bringing new ideas to life. I believe listening plays a key role and as a designer the only way to accurately 
+                        create a vision. The fun part after finding the client’s needs is putting together the mood boards, style tiles, patterns, 
+                        and mock-ups. Maybe even better though, is to see those ideas translated to the painstakingly detailed code that I created to make this happen.</p>
                 </div> 
                 
                 <div className="service">
                     <h3>React.js</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>One of my passions is to learn and the moment I took up React I did not look back. Working in this framework has been 
+                        exciting and challenging. I have experience in building apps in the latest functional methodology and using hooks to manage 
+                        the state of my application. I am familiar with legacy forms also and love retrofitting them to todays standards.</p>
                 </div> 
                 
                 <div className="service">
                     <h3>WordPress</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Managing content is so important now. Setting up a new fancy Wordpress theme is no sweat here. I have built multiple custom themes 
+                        also to fit clients business needs. If your needs are basic or want something more complex I can help. Also, if your site is not 
+                        up to your business standards I would be excited to spice it up.</p>
                 </div> 
             </div> 
             
