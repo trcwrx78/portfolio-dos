@@ -4,25 +4,25 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 function Footer() {
     return(
         <footer className="footer">
-            <a href="mailto:hello@jane.dev" className="footer__link">hello@jane.dev</a>
+            <a href="mailto:me@torrencecole.com" className="footer__link">me@torrencecole.com</a>
             <ul className="social-list">
                 <li className="social-list__item">
-                    <a className="social-list__link" href="https://codepen.io">
+                    <a className="social-list__link" target="_blank" href="https://codepen.io/trcwrx78">
                         <FontAwesomeIcon icon={['fab', 'codepen']} />
                     </a>
                 </li>
                 <li className="social-list__item">
-                    <a className="social-list__link" href="http://dribbble.com">
-                        <FontAwesomeIcon icon={['fab', 'dribbble']} />
+                    <a className="social-list__link" target="_blank" href="https://www.linkedin.com/in/torrencecole">
+                        <FontAwesomeIcon icon={['fab', 'linkedin']} />
                     </a>
                 </li>
                 <li className="social-list__item">
-                    <a className="social-list__link" href="https://twitter.com">
+                    <a className="social-list__link" target="_blank" href="https://twitter.com/TRC_3">
                         <FontAwesomeIcon icon={['fab', 'twitter']} />
                     </a>
                 </li>
                 <li className="social-list__item">
-                    <a className="social-list__link" href="https://github.com">
+                    <a className="social-list__link" target="_blank" href="https://github.com/trcwrx78">
                         <FontAwesomeIcon icon={['fab', 'github']} />
                     </a>
                 </li>

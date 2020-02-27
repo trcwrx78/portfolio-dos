@@ -17,13 +17,15 @@ function Header() {
 
     const navItems = ["Home", "Services", "About", "Work"]
     const navItemBuild = navItems.map((item, i) => (
-        <li className="nav__item" key={i}><a href={`${url}#${item.toLowerCase()}`} className="nav__link" onClick={handleMenuChange}>{item}</a></li>
+        <li className="nav__item" key={i}>
+            <a href={`${url}#${item.toLowerCase()}`} className="nav__link" onClick={handleMenuChange}>{item}</a>
+        </li>
     ))
 
     return(
         <header>
             <div className="logo">
-                <img src="/img/devjane.png" alt="" />
+                <img src="/img/torrencecole.png" alt="" />
             </div>
             <button className="nav-toggle" aria-label="toggle navigation" onClick={handleMenuChange}>
                 <span className="hamburger"></span>
