@@ -9,7 +9,7 @@
 
     {
         "id": 2,
-        "title": "B",
+        "title": "1st Impressions",
         "img": "/img/portfolio-02.jpg",
         "desc": "",
         "content": ""
@@ -17,7 +17,7 @@
 
     {
         "id": 3,
-        "title": "C",
+        "title": "JanDell Flowers",
         "img": "/img/portfolio-03.jpg",
         "desc": "",
         "content": ""
@@ -25,7 +25,7 @@
     
     {
         "id": 4,
-        "title": "D",
+        "title": "Ahern Catering",
         "img": "/img/portfolio-04.jpg",
         "desc": "",
         "content": ""
@@ -33,7 +33,7 @@
 
     {
         "id": 5,
-        "title": "E",
+        "title": "Mileti Optical",
         "img": "/img/portfolio-05.jpg",
         "desc": "",
         "content": ""
@@ -41,7 +41,7 @@
 
     {
         "id": 6,
-        "title": "F",
+        "title": "Skybryte",
         "img": "/img/portfolio-06.jpg",
         "desc": "",
         "content": ""
@@ -49,7 +49,7 @@
 
     {
         "id": 7,
-        "title": "G",
+        "title": "Markdown Previewer",
         "img": "/img/portfolio-07.jpg",
         "desc": "",
         "content": ""
@@ -57,7 +57,7 @@
     
     {
         "id": 8,
-        "title": "H",
+        "title": "MEME Generator",
         "img": "/img/portfolio-08.jpg",
         "desc": "",
         "content": ""
@@ -65,16 +65,8 @@
 
     {
         "id": 9,
-        "title": "I",
+        "title": "PicSome",
         "img": "/img/portfolio-09.jpg",
-        "desc": "",
-        "content": ""
-    },
-    
-    {
-        "id": 10,
-        "title": "J",
-        "img": "/img/portfolio-10.jpg",
         "desc": "",
         "content": ""
     }
