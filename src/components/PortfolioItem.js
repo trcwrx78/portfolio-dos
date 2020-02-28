@@ -27,13 +27,13 @@ function PortfolioItem(props) {
                     The title <strong>{thisWork.title}</strong>
                 </h1>
                 <p className="section__subtitle section__subtitle--intro">A short subtitle</p>
-                <img src={thisWork.img} alt="" className="intro__img"/>
+                <img src={thisWork.img} alt={thisWork.altImg} className="intro__img"/>
             </section>
             
             <div className="portfolio-item-individual">
                 <p>Voluptatibus, soluta blanditiis! Incidunt ea unde itaque illo molestiae eligendi sint culpa 
                     nobis voluptas sapiente voluptate, magnam ipsum eius earum?</p>
-                <img src="/img/portfolio-details.jpg" alt=""/>
+                <img src={thisWork.imgDetail} alt={thisWork.altImgDetail}/>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe et amet tenetur! Fugit sequi 
                     optio corrupti fugiat ducimus consequatur incidunt?</p>
                 <p>Voluptatibus, soluta blanditiis! Incidunt ea unde itaque illo molestiae eligendi sint culpa 
