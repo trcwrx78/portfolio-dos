@@ -330,6 +330,11 @@ header {
 .service {
   max-width: 500px;
   margin: 0 auto;
+  text-align: left;
+}
+
+.service h3 {
+  text-align: center;
 }
 
 @media (min-width: 800px) {
