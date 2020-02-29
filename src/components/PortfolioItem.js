@@ -5,7 +5,7 @@ import portfolioData from '../portfolioData'
 function PortfolioItem(props) {
     const { workId } = useParams()
     let history = useHistory()
-    const thisWork = portfolioData.find( item => item.id == workId )
+    const thisWork = portfolioData.find( item => item.id === workId )
 
     function ScrollToTopOnMount() {
         useEffect(() => {
@@ -41,7 +41,7 @@ function PortfolioItem(props) {
             </div>
 
             <div className="portfolio-item-button">
-                <a onClick={handleClick} className="btn">Back</a>
+                <button onClick={handleClick} className="btn">Back</button>
             </div>
         </>
     )

@@ -1,98 +1,98 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "title": "Sandglo",
         "img": "/img/portfolio-01.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-01.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
     },
 
     {
-        "id": 2,
+        "id": "2",
         "title": "1st Impressions",
         "img": "/img/portfolio-02.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-02.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
     },
 
     {
-        "id": 3,
+        "id": "3",
         "title": "JanDell Flowers",
         "img": "/img/portfolio-03.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-03.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
     },
     
     {
-        "id": 4,
+        "id": "4",
         "title": "Ahern Catering",
         "img": "/img/portfolio-04.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-04.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
     },
 
     {
-        "id": 5,
+        "id": "5",
         "title": "Mileti Optical",
         "img": "/img/portfolio-05.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-05.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
     },
 
     {
-        "id": 6,
+        "id": "6",
         "title": "Skybryte",
         "img": "/img/portfolio-06.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-06.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
     },
 
     {
-        "id": 7,
+        "id": "7",
         "title": "Markdown Previewer",
         "img": "/img/portfolio-07.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-07.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
     },
     
     {
-        "id": 8,
+        "id": "8",
         "title": "MEME Generator",
         "img": "/img/portfolio-08.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-08.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
     },
 
     {
-        "id": 9,
+        "id": "9",
         "title": "PicSome",
         "img": "/img/portfolio-09.jpg",
         "altImg": "",
-        "imgDetail": "/img/portfolio-details.jpg",
+        "imgDetail": "/img/portfolio-details-09.jpg",
         "altImgDetail": "",
         "desc": "",
         "content": ""
