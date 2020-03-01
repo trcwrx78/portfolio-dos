@@ -16,7 +16,7 @@ function PortfolioItem(props) {
     }
 
     function handleClick() {
-        history.push("/");
+        history.push("/#work");
       }
 
     return(
