@@ -35,6 +35,7 @@ function PortfolioItem(props) {
                 <img src={thisWork.imgDetail} alt={thisWork.altImgDetail}/>
                 <p>{thisWork.p2}</p>
                 <p>{thisWork.p3}</p>
+                <p>Check the project out <a target="_blank" rel="noopener noreferrer" href={thisWork.link}>here</a>.</p>
             </div>
 
             <div className="portfolio-item-button">
