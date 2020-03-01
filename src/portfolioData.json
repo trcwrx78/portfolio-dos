@@ -7,7 +7,7 @@
         "imgDetail": "/img/portfolio-details-01.jpg",
         "altImgDetail": "Some of the work that Sandglo is capable of",
         "desc": "UI/UX and Front-end",
-        "p1": "Sandglo glass had a problem with not having a responsive website to meet the needs of their mobile. I was able to meet with the stakeholders of the company where we spent time talking about their needs which included rich multimedia showing detail in the sandblasted glass designs, showcase the business work that they continue to do in downtown Cleveland, and a place where people can express interest in a career.",
+        "p1": "Sandglo glass had a problem with not having a responsive website to meet the needs of their mobile customers. I was able to meet with the stakeholders of the company where we spent time talking about their needs which included rich multimedia showing detail in the sandblasted glass designs, showcasing the business work that they continue to do in downtown Cleveland, and a place where people can express interest in a career.",
         "p2": "Once I had the expectations of the client I began working on a mood board and style tiles that would serve as the basis to some of the components of the website. I used these to create a mock-up design in Photoshop. The client was happy with the design and gave me the ok to start building out in the browser.",
         "p3": "To build out the site I decided to work with Foundation as the framework. I also utilized Sass for the styles and manipulating the layout to conform to the photoshop mock. I also used PHP to make the site modular and to validate the contact form.",
         "link": "http://sandgloglass.com/"
@@ -21,9 +21,9 @@
         "imgDetail": "/img/portfolio-details-02.jpg",
         "altImgDetail": "The link to 1st Impressions WordPress Blog",
         "desc": "UI/UX, WordPress, and Front-end",
-        "p1": "This client came to me with a need for a way to communicate their projects and a simple way to post them. They also wanted a way to increase their site traffic. We decided that the best way for them to fo this was to create a WordPress site.",
+        "p1": "This client came to me with a need for a way to communicate their projects and a simple way to post them. They also wanted a way to increase their site traffic. We decided that the best way for them to do this was to create a WordPress site.",
         "p2": "The work began with a complete mock-up of the UI. Also, I started framing up a custom WordPress site that I implemented Foundation as a framework for ease of use and future upgradeability. I also used Sass on this project to build up the UI and make it look like the mock-up",
-        "p3": "Overall the project show cased knowledge of PHP, framing up the WordPress theme. The client was excited to have a site that they could update with their own content management system.",
+        "p3": "Overall the project showcased knowledge of PHP, framing up the WordPress theme. The client was excited to have a site that they could update with their own content management system.",
         "link": "https://1stimpressionsohio.com"
     },
 
@@ -36,7 +36,7 @@
         "altImgDetail": "Product page with all of the bouquets displayed",
         "desc": "UI/UX and Front-end",
         "p1": "When JanDell contacted me they were looking for a modern design and something that would work on mobile devices. The following results are what we collaborated on to bring their identity to life. The client was on a short timeline and we were able to put this redesign together in less than a month.",
-        "p2": "This project was a pretty straight forward build. This project was one of the first that I started designing in the browser first. Due to the short timeline and other trends I felt it was the best to get the project done quickly. We created a live test server for the client to check into every week.",
+        "p2": "This project was a pretty straight forward build. To expedite the process I started designing in the browser first. Due to the short timeline I felt it was the best way to proceed with the project and get it done quickly. We created a live test server for the client to check into every week.",
         "p3": "I used JavaScript, Sass, and Foundation to build out the site. The flower page was built with JavaScript to make the cool hover effects on the products. Sass was used to work modularly on the styles and Foundation for easy maintenance.",
         "link": "https://www.jandellflowers.com/"
     },
@@ -63,7 +63,7 @@
         "imgDetail": "/img/portfolio-details-05.jpg",
         "altImgDetail": "A laptop displaying some of the hearing aids that are offered at Mileti",
         "desc": "UI/UX and Front-end",
-        "p1": "This client was in need of web design help and had a short timeframe. They wantes a mobile site and a way for them to display coupons for the products they provided. We spoke on the phone multiple times due to our schedules not lining up. We were able to make a test server so that as we were communicating the could see progress. ",
+        "p1": "This client was in need of web design help and had a short timeframe. They wanted a mobile site and a way for them to display coupons for the products they provided. We spoke on the phone multiple times due to our schedules not lining up. We were able to make a test server so that as we were communicating they could see the progress.",
         "p2": "To keep this project on task it was designed in the browser. To rapidly get it setup Foundation was used as a building block. All styles were done using Sass and a slider was added to display hearing aid content images. The coupon layouts where done in Foundation callout boxes to allow them to pop out.",
         "p3": "The client was happy with the progress and the way the site turned out. They continue to add additional coupons and products.",
         "link": "https://www.miletioptical.com/"
@@ -78,7 +78,7 @@
         "altImgDetail": "Showing a linked Google map to find the location of Skybryte",
         "desc": "UI/UX and Front-end",
         "p1": "This project was a ground up build. All they had were Safety Data Sheets and some old images of bottles they used for online sales. It allowed me to brush up on my Illustrator skills to create all the icons and images on the site.",
-        "p2": "The website was a very straight forward build using Foundation and Sass. All of the assets were created by me through Illustrator. I integrated Google maps so that customers can find there shop to purchase their products.",
+        "p2": "The website was a very straight forward build using Foundation and Sass. All of the assets were created by me through Illustrator. I integrated Google maps so that customers can find the shop to purchase their products.",
         "p3": "The client was happy with the result and excited they had a new responsive website. It was a great feeling creating a clients online presence!",
         "link": "https://skybryte.com/"
     },
@@ -93,7 +93,7 @@
         "desc": "React.js and Front-end",
         "p1": "This project was from freeCodeCamp and their Front End Libraries Certification. This was fun and allowed me to use my skills in React.js",
         "p2": "The technology stack that I went with to build out the previewer was HTML, CSS, and React.js. It essentially take GitHub flavored markdown and converts it to a HTML style document. To do this I linked up marked.js to parse the markdown",
-        "p3": "I then utilized JSX and react to display the newly converted markdown in a textarea. Which I styled right next to the input field. If you type into the input field it accepts the text and converts it over into the text area.",
+        "p3": "I then utilized JSX and React to display the newly converted markdown in a textarea, which I styled right next to the input field. If you type into the input field it accepts the text and converts it over into the text area.",
         "link": "https://codepen.io/trcwrx78/pen/LYVPwMz"
     },
     
@@ -105,9 +105,9 @@
         "imgDetail": "/img/portfolio-details-08.jpg",
         "altImgDetail": "Codepen preview of the Meme Generator in action",
         "desc": "React.js and Front-end",
-        "p1": "Why is this not working?",
-        "p2": "",
-        "p3": "",
+        "p1": "This was a fun project that was built in React.js. It went through manipulating state, form control, and fetching data from an api.",
+        "p2": "I used class based components to build this in Codepen. In later projects they are built in functional components and use hooks to add state and effect to my projects.",
+        "p3": "This is a fun program to play with. See what Memes you can come up with.",
         "link": "https://codepen.io/trcwrx78/pen/XWJoNKj"
     },
 
@@ -119,9 +119,9 @@
         "imgDetail": "/img/portfolio-details-09.jpg",
         "altImgDetail": "",
         "desc": "React.js and Front-end",
-        "p1": "Why is this not working?",
-        "p2": "",
-        "p3": "",
-        "link": ""
+        "p1": "This was a capstone project that I completed in my React Bootcamp. It is a photo based app that you can select photos, favorite them, add them to a cart, and then buy them.",
+        "p2": "While building the project it went through different facets of React starting with JSX, functional components, hooks, custom hooks, context, and React Router. I really enjoyed the development process and seeing this project come to life." ,
+        "p3": "The rest of the site was built out using CSS and bringing in the photos from a github repository along with icons from remixicon.",
+        "link": "https://torrencecole.com/PicSome"
     }
 ]

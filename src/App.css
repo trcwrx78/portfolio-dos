@@ -6,15 +6,15 @@
 
 /* Custome Properties */
 :root {
-  --ff-primary: 'Lora', serif;
-  --ff-secondary: 'Roboto Slab', serif;
+  --ff-primary: 'Spartan', serif;
+  --ff-secondary: 'Cantarell', serif;
   
   --fw-reg: 400;
   --fw-bold: 700;
   
-  --clr-light: #fff;
-  --clr-dark: #303030;
-  --clr-accent: #f8333c;
+  --clr-light: #ffffff;
+  --clr-dark: #0f4c81;
+  --clr-accent: #ed6663;
   
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
@@ -36,10 +36,10 @@
 
 /* General styles */
 
-/* enable this to add smooth scrolling */
+/* enable this to add smooth scrolling 
 html {
     scroll-behavior: smooth;
-}
+}*/
 
 
 body {
@@ -431,7 +431,7 @@ header {
 /* footer */
 
 .footer {
-  background: #111;
+  background: #1b262c;
   color: var(--clr-accent);
   text-align: center;
   padding: 2.5em 0;

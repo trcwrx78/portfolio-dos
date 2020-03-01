@@ -22,7 +22,7 @@ function Services() {
                 <div className="service">
                     <h3>WordPress</h3>
                     <p>Managing content is so important now. Setting up a new fancy WordPress theme is no sweat here. I have built multiple custom themes 
-                        to fit clients business needs. If your needs are basic or want something more complex I can help. Also, if your site is not 
+                        to fit clients business needs. If your needs are basic or you want something more complex I can help. Also, if your site is not 
                         up to your business standards I would be excited to spice it up.</p>
                 </div> 
             </div> 
