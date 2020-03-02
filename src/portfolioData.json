@@ -122,6 +122,6 @@
         "p1": "This was a capstone project that I completed in my React Bootcamp. It is a photo based app that you can select photos, favorite them, add them to a cart, and then buy them.",
         "p2": "While building the project it went through different facets of React starting with JSX, functional components, hooks, custom hooks, context, and React Router. I really enjoyed the development process and seeing this project come to life." ,
         "p3": "The rest of the site was built out using CSS and bringing in the photos from a github repository along with icons from remixicon.",
-        "link": "https://torrencecole.com/PicSome"
+        "link": ""
     }
 ]
