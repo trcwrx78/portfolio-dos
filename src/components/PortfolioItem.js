@@ -36,7 +36,7 @@ function PortfolioItem(props) {
                 <p>{thisWork.p2}</p>
                 <p>{thisWork.p3}</p>
                 {thisWork.link ? 
-                    <p>Check the project out <a target="_blank" rel="noopener noreferrer" href={thisWork.link}>here</a>.</p> :
+                    <p>Check the full project out <a target="_blank" rel="noopener noreferrer" href={thisWork.link}>here</a>.</p> :
                     ""}
             </div>
 

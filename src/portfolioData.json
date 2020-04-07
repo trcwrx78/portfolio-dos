@@ -85,30 +85,30 @@
 
     {
         "id": "7",
-        "title": "Markdown Previewer",
+        "title": "Front End Libraries",
         "img": "/img/portfolio-07.jpg",
-        "altImg": "Markdown previewer on a laptop computer",
+        "altImg": "Collection of apps created with React",
         "imgDetail": "/img/portfolio-details-07.jpg",
-        "altImgDetail": "Codepen preview of the Markdown previewer in action",
-        "desc": "React.js and Front-end",
-        "p1": "This project was from freeCodeCamp and their Front End Libraries Certification. This was fun and allowed me to use my skills in React.js",
-        "p2": "The technology stack that I went with to build out the previewer was HTML, CSS, and React.js. It essentially take GitHub flavored markdown and converts it to a HTML style document. To do this I linked up marked.js to parse the markdown",
-        "p3": "I then utilized JSX and React to display the newly converted markdown in a textarea, which I styled right next to the input field. If you type into the input field it accepts the text and converts it over into the text area.",
-        "link": "https://codepen.io/trcwrx78/pen/LYVPwMz"
+        "altImgDetail": "Close-up of apps created for projects",
+        "desc": "React.js",
+        "p1": "This collection of projects were for Free Code Camp's Front End Library certification. This was a fantastic learning experience because it stretched the basic foundation of what had been taught in there program. With some additional research I was able to build upon the basics, using hooks and context to create these projects.",
+        "p2": "The first project was a Markdown Previewer which takes Github flavored markdown and converts it to HTML. Second, the Drum Machine project. This worked through keyboard, mouse events, and HTML's audio property. The JavaScript calculator was quite difficult to create all of the different math logic and finish all of the user stories. I did have a lot of fun creating the old style calculator look! Lastly, the Pomodoro clock which will allow you to set a timer and a break timer. There is also an audible alert to let you know the timer is done.",
+        "p3": "All of these projects and the code that was used can be previewed via Codepen.",
+        "link": "https://codepen.io/collection/AaVrMo"
     },
     
     {
         "id": "8",
-        "title": "MEME Generator",
+        "title": "Data Visualizations",
         "img": "/img/portfolio-08.jpg",
-        "altImg": "Meme generator on an iPad",
+        "altImg": "Data Visualization pens via Codepen",
         "imgDetail": "/img/portfolio-details-08.jpg",
-        "altImgDetail": "Codepen preview of the Meme Generator in action",
-        "desc": "React.js and Front-end",
-        "p1": "This was a fun project that was built in React.js. It went through manipulating state, form control, and fetching data from an api.",
-        "p2": "I used class based components to build this in Codepen. In later projects they are built in functional components and use hooks to add state and effect to my projects.",
-        "p3": "This is a fun program to play with. See what Memes you can come up with.",
-        "link": "https://codepen.io/trcwrx78/pen/XWJoNKj"
+        "altImgDetail": "Data Visualization of US GDP, Doping in Pro Bicycle Racing, Land Surface Temperature, Educational Attainment, and Movie Sales",
+        "desc": "D3.js",
+        "p1": "These Projects were part of the Free Code Camp curriculum on Data Visualization. They used D3 which is a JavaScript library dedicated to displaying data graphically.",
+        "p2": "There are five projects that were completed to obtain the Certification for Data Visualiztion. They were a bar chart, scatterplot graph, heat map, choropleth map, and a treemap.",
+        "p3": "These were great projects and pushed me to learn a new library. They dived deep into SVG and how to manipulate them with the D3.js API. I think the results speak for themselves.",
+        "link": "https://codepen.io/collection/nqVrdb"
     },
 
     {
@@ -118,7 +118,7 @@
         "altImg": "Picsome project on all in one computer",
         "imgDetail": "/img/portfolio-details-09.jpg",
         "altImgDetail": "",
-        "desc": "React.js and Front-end",
+        "desc": "React.js",
         "p1": "This was a capstone project that I completed in my React Bootcamp. It is a photo based app that you can select photos, favorite them, add them to a cart, and then buy them.",
         "p2": "While building the project it went through different facets of React starting with JSX, functional components, hooks, custom hooks, context, and React Router. I really enjoyed the development process and seeing this project come to life." ,
         "p3": "The rest of the site was built out using CSS and bringing in the photos from a github repository along with icons from remixicon.",
